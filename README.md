@@ -4,4 +4,4 @@
 ## Lista de exercícios 
 
 - [  ]  ex001
-- [  ] ex002
+- [  ]  ex002
