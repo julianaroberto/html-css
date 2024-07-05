@@ -3,5 +3,5 @@
 
 ## Lista de exercícios 
 
-- [ / ] ex001
-- [ / ] ex002
+- [  ]  ex001
+- [  ] ex002
