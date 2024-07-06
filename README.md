@@ -10,6 +10,7 @@
 
 ## Anotações
 
+### Sobre imagens
  1. usar imagens pesquisando pelas imagens que tem uso autorizado / usar unplash, pexels, etc por causa dos direitos autorais
 
 1. tamanho de imagem máximo p usar em site 1500, pois arquivos grandes deixam o site lento (usar o gimp para redimensionar)
