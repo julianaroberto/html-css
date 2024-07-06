@@ -1,5 +1,7 @@
 # html-css
- aulas guanabara
+ Curso em vídeo - aulas de html5 e css3
+
+# Módulo 1
 
 ## Lista de exercícios 
 
@@ -13,7 +15,6 @@
 - [ ] ex008
 - [ ] ex009
 - [ ] ex010
-
 
 ## Anotações
 
