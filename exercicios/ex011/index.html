@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <!-- pasta imagens com arquivos de tamanho: P (celular), M (tablet), G (desktop, notebook, tvs) -->
+
+    <h1>Imagem dinânmica</h1>
+    
+    <p>Tente abrir esse site em vários dispotivios diferentes ou simplesmente aumente e diminuia o tamanho do seu navegador.</p>
+
+    <picture>
+        <source media="(max-width: 650px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem flexível">
+    </picture>
+
+    <!-- a base é a imagem padrão que se quer carregar, a SOURCE É ACIMA dela, pois aparecem quando a imagem base não pode ser carregada direito/não se encaixa totalmente ao tamanho da visualização. As imagens dinâmicas se adaptam ao tamanho/visualização da tela. -->
+
+    <!-- tomar cuidado com direitos autorais em músicas e tamanho do arquivo. Buscar sons e músicas na biblioteca de audio do youtube. -->
+    <h2>Reproduzindo Aúdio</h2>
+
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+
+    <audio src="midia/happy-mistake.mp3" controls autoplay loop>
+        <p>Infelizmente seu navegador não consegue reproduzir áudio.</p>
+    </audio>
+
+
+    <!-- Outra maneira de adicionar audio seria: 
+     <audio>
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg">
+        <source src="midia/guanacast-33.ogg" type="audio/ogg"
+        <source src="midia/guanacast-33.wav" type="audio/wav"> 
+        o arquivo wav não é recomendado porque é muito pesado/grande -->
+</body>
+</html>
