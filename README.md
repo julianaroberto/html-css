@@ -5,7 +5,7 @@
 
 # Módulo 1
 
-16/07/2024
+Início: 16/07/2024
 
 ## Lista de exercícios 
 
@@ -38,3 +38,16 @@
 - [x] d009
 
 
+Concluído em 08/07/2024.
+
+# Módulo 2
+
+Início: 08/07/2024
+
+## Lista de exercícios
+
+- [ ] ex016
+- [ ] ex017
+- [ ] ex018
+- [ ] ex019
+- [ ] ex020
