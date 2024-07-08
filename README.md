@@ -1,7 +1,11 @@
 # html-css
  Curso em vídeo - aulas de html5 e css3
 
+ Início em: Junho de 2024
+
 # Módulo 1
+
+16/07/2024
 
 ## Lista de exercícios 
 
@@ -15,8 +19,8 @@
 - [x] ex008 e ex008b
 - [x] ex009
 - [x] ex010
-- [ ] ex011
-- [ ] ex012
+- [x] ex011
+- [x] ex012
 - [ ] ex013
 - [ ] ex014
 - [ ] ex015
@@ -29,12 +33,8 @@
 - [x] d004
 - [x] d005
 - [x] d006
-- [ ] d007
-- [ ] d008
-- [ ] d009
-- [ ] d010
-- [ ] ex011
-- [ ] ex012
-- [ ] ex013
-- [ ] ex014
-- [ ] ex015
+- [x] d007
+- [x] d008
+- [x] d009
+
+Desafios completados em 08/07/2024. 
