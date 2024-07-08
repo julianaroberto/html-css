@@ -37,4 +37,4 @@
 - [x] d008
 - [x] d009
 
-Desafios completados em 08/07/2024. 
+
