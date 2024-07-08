@@ -21,9 +21,9 @@
 - [x] ex010
 - [x] ex011
 - [x] ex012
-- [ ] ex013
-- [ ] ex014
-- [ ] ex015
+- [x] ex013
+- [x] ex014
+- [x] ex015
 
 ## Lista de desafios
 
