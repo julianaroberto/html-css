@@ -9,3 +9,12 @@
 * Cores terciárias: mistura das cores primárias e secundárias
 * Temperatura de cores: ao lado direito do circulo cromático são as cores quentes e ao lado esquerdo as cores frias. 
 
+## Como caputar cores 
+
+de outros sites, etc
+adicionar a extensão colorzilla no google chrome
+
+## Sites
+
+adobe colors
+coolors
