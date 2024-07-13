@@ -46,7 +46,7 @@ Início: 08/07/2024
 
 ## Lista de exercícios
 
-- [ ] ex016
+- [x] ex016
 - [ ] ex017
 - [ ] ex018
 - [ ] ex019
